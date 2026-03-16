@@ -1,7 +1,7 @@
 # Hi, I'm Arup Roy 👋
 
 A Data Scientist passionate about building end-to-end ML solutions 
-that solve real-world problems in Healthcare and Finance.
+that solve real-world problems.
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
