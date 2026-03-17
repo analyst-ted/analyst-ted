@@ -52,7 +52,7 @@ with a focus on deploying production-ready models.
 **Tech:** XGBoost · Scikit-learn · SMOTE · Streamlit · Python
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/analyst-ted/hospital-readmission-prediction)
-[![App](https://img.shields.io/badge/Live-App-FF4B4B?style=flat&logo=streamlit)](https://hospital-readmission-prediciton-6aq6u3tn65eljkbrtga6zq.streamlit.app)
+[![App](https://img.shields.io/badge/Live-App-FF4B4B?style=flat&logo=streamlit)](https://hospital-readmission-prediciton-arup-roy.streamlit.app)
 
 ---
 
@@ -70,7 +70,7 @@ with a focus on deploying production-ready models.
 **Tech:** TensorFlow/Keras · Scikit-learn · Streamlit · Python
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/analyst-ted/loan-default-risk-engine)
-[![App](https://img.shields.io/badge/Live-App-FF4B4B?style=flat&logo=streamlit)](https://loan-default-risk-engine-58fups7snrd3vpv2lzxgmn.streamlit.app)
+[![App](https://img.shields.io/badge/Live-App-FF4B4B?style=flat&logo=streamlit)](https://loan-default-risk-engine-arup-roy.streamlit.app)
 
 ---
 
