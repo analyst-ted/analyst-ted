@@ -74,6 +74,17 @@ with a focus on deploying production-ready models.
 
 ---
 
+### 🛒 Retail Sales Forecasting
+> Comparing ARIMA vs Prophet vs LSTM for daily sales prediction
+
+- **Dataset:** 3M rows · 54 stores · 33 product families
+- **Models:** ARIMA · Prophet · LSTM
+- **Result:** LSTM 14.8% MAPE · Prophet recommended for production
+- **Stack:** Python · TensorFlow · Prophet · Statsmodels · Streamlit
+
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-red)]([YOUR_STREAMLIT_URL](https://retail-sales-forecasting-arup-roy.streamlit.app))
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/analyst-ted/retail-sales-forecasting)
+
 ## 📊 What I Build
 ```
 Raw Data → Cleaning → EDA → Preprocessing → Model → Deployment
